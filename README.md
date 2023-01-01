@@ -1,3 +1,5 @@
+# This is a Text Utility (ReactJs) App which allows users to manipulate the texts Like Uppercasing, Removing extra spaces, Capitalizing, Reversing words, etc.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
